@@ -1,0 +1,7 @@
+c:\users\ntm1hc\source\repos\Console-Async\Console-Async\bin\Debug\Console-Async.exe.config
+c:\users\ntm1hc\source\repos\Console-Async\Console-Async\bin\Debug\Console-Async.exe
+c:\users\ntm1hc\source\repos\Console-Async\Console-Async\bin\Debug\Console-Async.pdb
+c:\users\ntm1hc\source\repos\Console-Async\Console-Async\obj\Debug\Console-Async.csprojResolveAssemblyReference.cache
+c:\users\ntm1hc\source\repos\Console-Async\Console-Async\obj\Debug\Console-Async.csproj.CoreCompileInputs.cache
+c:\users\ntm1hc\source\repos\Console-Async\Console-Async\obj\Debug\Console-Async.exe
+c:\users\ntm1hc\source\repos\Console-Async\Console-Async\obj\Debug\Console-Async.pdb
